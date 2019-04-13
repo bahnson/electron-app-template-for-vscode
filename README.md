@@ -3,7 +3,7 @@
 Template for Electron apps written in TypeScript using Visual Studio Code. It's based on Damien Guard's [electron-typescript-vscode](https://github.com/damieng/electron-typescript-vscode) template. I just made the following adjustments:
 * added electron as app dependency in package.json
 * updated versions of electron and typescript dependencies in package.json
-* using only main.ts with basic instructions from [Electron Blog] (https://electronjs.org/blog/typescript)
+* using only main.ts with basic instructions from [Electron Blog](https://electronjs.org/blog/typescript)
 
 ## Prerequisites
 
