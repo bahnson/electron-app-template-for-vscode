@@ -1,5 +1,5 @@
 {
-  "name": "vscode-template-for-electron",
+  "name": "electron-app-template-for-vscode",
   "version": "0.0.1",
   "description": "VSCode template for Electron apps written in TypeScript (based on Damien Guard's template)",
   "main": "main.js",
@@ -8,7 +8,7 @@
     "prestart": "npm run build",
     "start": "electron ./dist/main.js"
   },
-  "repository": "https://github.com/bahnson/vscode-template-for-electron",
+  "repository": "https://github.com/bahnson/electron-app-template-for-vscode",
   "keywords": [
     "typescript",
     "electron",
